@@ -5,7 +5,9 @@ The goal of the project is to predict whether a person's income is greater than 
 ## Objective
 To build and evaluate binary classification models using Logistic Regression, Random Forest, Decision Tree, and K-Nearest Neighbors.
 ## Dataset
--**Source**:UCI Machine Learning Repository-Adult Dataset(https://archive.ics.uci.edu/dataset/2/adult)-Rows:48842 -columns:14+ target variable
+-**Source**:UCI Machine Learning Repository-Adult Dataset(https://archive.ics.uci.edu/dataset/2/adult) 
+ -Rows:48842 
+ -columns:14+ target variable
 ## Tools & Libraries
 - Python,NumPy,Pandas
 - Matplotlib,Seaborn (for visualization)
