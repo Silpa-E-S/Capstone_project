@@ -45,7 +45,7 @@ To build and evaluate binary classification models using Logistic Regression, Ra
     - F1 Score (Macro and Weighted)
 ### 9. Result Summary
 | Model               | Accuracy | Weighted F1 Score |
-|----------------------------------------------------|
+|---------------------|----------|-------------------|
 | Logistic Regression | 0.85     | 0.84              |
 | Random Forest       | 0.85     | 0.85              |
 | Decision Tree       | 0.85     | 0.83              |
